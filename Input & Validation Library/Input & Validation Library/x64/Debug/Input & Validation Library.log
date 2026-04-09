@@ -1,0 +1,5 @@
+﻿  Input & Validation Library.cpp
+C:\Users\devah\OneDrive\Desktop\Course 11\Input & Validation Library\Input & Validation Library\clsDate.h(479,31): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Input%20&%20Validation%20Library.cpp')
+  
+  Input & Validation Library.vcxproj -> C:\Users\devah\OneDrive\Desktop\Course 11\Input & Validation Library\x64\Debug\Input & Validation Library.exe
