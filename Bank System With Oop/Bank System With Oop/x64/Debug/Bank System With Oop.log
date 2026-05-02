@@ -1,0 +1,46 @@
+﻿  Bank System With Oop.cpp
+C:\Users\devah\OneDrive\Desktop\MyLib\clsDate.h(479,31): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System%20With%20Oop.cpp')
+  
+C:\Users\devah\OneDrive\Desktop\MyLib\clsString.h(126,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System%20With%20Oop.cpp')
+  
+C:\Users\devah\OneDrive\Desktop\MyLib\clsString.h(324,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System%20With%20Oop.cpp')
+  
+C:\Users\devah\OneDrive\Desktop\MyLib\clsString.h(357,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System%20With%20Oop.cpp')
+  
+C:\Users\devah\OneDrive\Desktop\MyLib\clsString.h(400,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System%20With%20Oop.cpp')
+  
+C:\Users\devah\OneDrive\Desktop\MyLib\clsString.h(501,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System%20With%20Oop.cpp')
+  
+C:\Users\devah\OneDrive\Desktop\Course 11\Bank System With Oop\Bank System With Oop\clsBankClient.h(282,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System%20With%20Oop.cpp')
+  
+C:\Users\devah\OneDrive\Desktop\Course 11\Bank System With Oop\Bank System With Oop\clsBankClient.h(291,28): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System%20With%20Oop.cpp')
+  
+C:\Users\devah\OneDrive\Desktop\MyLib\clsUtil.h(67,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Bank%20System%20With%20Oop.cpp')
+  
+C:\Users\devah\OneDrive\Desktop\Course 11\Bank System With Oop\Bank System With Oop\clsTotalBalancesScreen.h(57,58): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+  (compiling source file 'Bank%20System%20With%20Oop.cpp')
+  
+C:\Users\devah\OneDrive\Desktop\Course 11\Bank System With Oop\Bank System With Oop\clsAddNewUserScreen.h(100,21): warning C4129: 'L': unrecognized character escape sequence
+  (compiling source file 'Bank%20System%20With%20Oop.cpp')
+  
+C:\Users\devah\OneDrive\Desktop\Course 11\Bank System With Oop\Bank System With Oop\clsManageUsersScreen.h(18,17): warning C4091: 'static ': ignored on left of 'clsManageUsersScreen::_enOption' when no variable is declared
+  (compiling source file 'Bank%20System%20With%20Oop.cpp')
+  
+C:\Users\devah\OneDrive\Desktop\Course 11\Bank System With Oop\Bank System With Oop\clsCurrencyMainScreen.h(15,17): warning C4091: 'static ': ignored on left of 'clsCurrencyMainScreen::_enOption' when no variable is declared
+  (compiling source file 'Bank%20System%20With%20Oop.cpp')
+  
+C:\Users\devah\OneDrive\Desktop\Course 11\Bank System With Oop\Bank System With Oop\clsMainScreen.h(21,17): warning C4091: 'static ': ignored on left of 'clsMainScreen::_enOption' when no variable is declared
+  (compiling source file 'Bank%20System%20With%20Oop.cpp')
+  
+C:\Users\devah\OneDrive\Desktop\Course 11\Bank System With Oop\Bank System With Oop\clsBankUser.h(433,1): warning C4715: 'clsBankUser::Save': not all control paths return a value
+C:\Users\devah\OneDrive\Desktop\MyLib\clsUtil.h(282,1): warning C4715: 'clsUtil::ConvertNumberToText': not all control paths return a value
+  Bank System With Oop.vcxproj -> C:\Users\devah\OneDrive\Desktop\Course 11\Bank System With Oop\x64\Debug\Bank System With Oop.exe
